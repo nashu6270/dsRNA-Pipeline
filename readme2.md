@@ -134,7 +134,7 @@ python analyze_dsrna_candidates.py -i fragments.features.tsv -o results/
 
 The env.yml file contains all required dependencies.
 Simply run:
-
+Step 1
 bash
 conda env create -f env.yml
 This will automatically install all Python packages
