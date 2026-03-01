@@ -22,6 +22,9 @@ Masked-region aware fragment generation
 Publication-ready figure generation (300 DPI, PNG + PDF)
 
 Designed for integration into HPC workflows and larger bioinformatics pipelines
+# Licensed under the PolyForm Noncommercial License 1.0.0
+# © 2026 A. Nayak, C. Bose, S. Nanda. Commercial use requires written authorization.
+
 
 Dependencies
 Python ≥ 3.8 · Biopython · pandas · numpy · matplotlib · seaborn · scikit-learn · scipy · tqdm · ViennaRNA (RNAfold, RNAplfold)
