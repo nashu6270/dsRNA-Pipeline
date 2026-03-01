@@ -6,7 +6,7 @@
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/dsRNA-Pipeline.git
+git clone https://github.com/nashu6270/dsRNA-Pipeline.git
 cd dsRNA-Pipeline
 ```
 
