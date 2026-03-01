@@ -1,0 +1,7 @@
+dsRNA-Pipeline is an open-source, command-line Python toolkit developed to streamline the computational design of double-stranded RNA (dsRNA) bioinsecticides targeting insect pest genes via RNA interference (RNAi).
+
+The pipeline automates three critical steps: (1) exhaustive sliding-window enumeration of dsRNA candidates from a target coding sequence with rich sequence-level quality annotation, (2) thermodynamic and structural characterization of each candidate using ViennaRNA (RNAfold + RNAplfold), and (3) transparent multi-criteria composite scoring, candidate ranking, and automated generation of publication-quality figures and reports.
+
+Designed for researchers working in agricultural biotechnology, functional genomics, and RNAi-based pest control, this toolkit eliminates the need for manual fragment selection and provides a fully reproducible, locally deployable alternative to web-based dsRNA design servers.
+
+Authors: A. Nayak, C. Bose, S. Nanda
